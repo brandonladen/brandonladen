@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello world 👋 , I'm Bandon 😄
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 - 🔭 I’m currently working on my course 
