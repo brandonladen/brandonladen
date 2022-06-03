@@ -11,7 +11,11 @@
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: I believe in me
 
+## My KeyDrive
+"Never quit if things hardens themselves , instead learn to rest "
+
 ### Talk with me, I am kinda awesome 
+https://wa.me/254702499923
 
 ### Languages
 
