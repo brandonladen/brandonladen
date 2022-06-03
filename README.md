@@ -11,7 +11,9 @@
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: I believe in me
 
-### Talk with me, I am kinda awesome creature:
+### Talk with me, I am kinda awesome 
 
 ### Languages
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
