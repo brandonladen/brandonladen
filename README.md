@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my course 
 - 🌱 I’m currently learning Programming
-- 📫 How to reach me: 0702499923
+- 📫 How to reach me: https://wa.me/254702499923
 -  💬 Ask me about ... Anything
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: I believe in me
