@@ -6,7 +6,7 @@
 ## I'm still a student 
 
 - 🔭 I’m currently working on my course (INFORMATION TECHNOLOGY)
-- 🌱 I’m currently learning Programming and web disign
+- 🌱 I’m currently learning Programming and Web Disign
 - 📫 How to reach me: https://wa.me/254702499923
 -  💬 Ask me about ... Anything
 - 😄 Pronouns:  she/her
