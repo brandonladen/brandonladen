@@ -6,7 +6,7 @@
 ## I'm still a student 
 
 - 🔭 I’m currently working on my course (INFORMATION TECHNOLOGY)
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Programming and web disign
 - 📫 How to reach me: https://wa.me/254702499923
 -  💬 Ask me about ... Anything
 - 😄 Pronouns:  she/her
@@ -33,4 +33,3 @@ https://wa.me/254702499923
   <summary>:zap: Most Used Language</summary>
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonladen" />
-<details/>
