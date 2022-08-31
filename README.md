@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I believe in me
 
 ## My KeyDrive
-"Never quit if things hardens themselves , instead learn to rest "
+"Never quit , instead learn to rest "
 
 ### Talk with me via WhatsApp, I am kinda awesome 
 https://wa.me/254702499923
