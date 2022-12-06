@@ -5,8 +5,8 @@
 
 ## I'm still a student 
 
-- 🔭 I’m currently working on my course (INFORMATION TECHNOLOGY)
-- 🌱 I’m currently learning Software Engineering at ALX
+- 🔭 I’m still working on my course (INFORMATION TECHNOLOGY)
+- 🌱 I’m currently taking Software Engineering at ALX
 - 📫 How to reach me: https://wa.me/254702499923
 -  💬 Ask me about ... Anything
 - 😄 Pronouns:  she/her
