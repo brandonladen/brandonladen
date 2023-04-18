@@ -23,7 +23,8 @@ https://wa.me/254702499923
 <img align="left" alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JAVA" width="56px" src="https://dev.java/assets/images/java-logo-vert-blk.png" />
-
+<img align="left" alt="C" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br> <br> <br>
 <details>
   <summary>:zap: Most Used Language</summary>
