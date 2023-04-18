@@ -29,4 +29,4 @@ https://wa.me/254702499923
 <details>
   <summary>:zap: Most Used Language</summary>
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonladen" />
-  </details>
+ </details>
