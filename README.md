@@ -10,7 +10,7 @@
 - 📫 How to reach me: https://wa.me/254702499923
 -  💬 Ask me about ... Anything
 - 😄 Pronouns:  she/her
-- ⚡ Fun fact: I believe in me
+- ⚡ Fun fact: I taught myself how to code before going to university and I have learned more than six programming languages, including Javascript, Java, C, C++, Dart, Python, and SQL.
 
 ## My KeyDrive
 "Never quit , instead learn to rest "
