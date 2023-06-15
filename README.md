@@ -28,5 +28,6 @@ https://wa.me/254702499923
 <br> <br> <br>
 <details>
   <summary>:zap: Most Used Language</summary>
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonladen" />
+
  </details>
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonladen" />
