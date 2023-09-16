@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Software Engineering at ALX
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be generous
-- 😄 Pronouns:  she/her
+- 😄 Pronouns:  He/Him
 - 📫 How to reach me: brandonladen486@gmail.com
 - ⚡ Fun fact: I taught myself how to code before going to university and I have learned more than six programming languages, including Javascript, Java, C, C++, Dart, Python, and SQL.
 
