@@ -16,7 +16,7 @@
    "Never quit , instead learn to rest "
 
 ### Talk with me via WhatsApp, I am kinda awesome 
-   https://wa.me/254702499923
+   [Click here to open WhatsApp](https://wa.me/254702499923)
 
 ## My Stack(used or still using)
 
