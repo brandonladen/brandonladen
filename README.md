@@ -9,8 +9,9 @@ src="https://img.shields.io/twitter/follow/BrandonLyden_?logo=twitter&style=for-
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/brandonladen486)
 - 🔭 I’m still working on my course (INFORMATION TECHNOLOGY)
 - 🌱 I’m currently learning Software Engineering at ALX
+- 🧠  I'm learning as many things as I can about software engineering.
 - 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about any thing, be sure I'll be generous
+- 💬 Ask me about anything, be sure I'll be generous
 - 😄 Pronouns:  He/Him
 - 📫 How to reach me: brandonladen486@gmail.com
 - ⚡ Fun fact: I taught myself how to code before going to university and I have learned more than six programming languages, including Javascript, Java, C, C++, Dart, Python, and SQL.
