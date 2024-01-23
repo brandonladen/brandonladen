@@ -7,17 +7,17 @@ src="https://img.shields.io/twitter/follow/BrandonLyden_?logo=twitter&style=for-
 [![Linkedin: Brandon](https://img.shields.io/badge/-Brandon-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/brandon-odhiambo-40b91a25a/)](https://www.linkedin.com/in/brandon-odhiambo-40b91a25a/)
 [![GitHub brandonladen ](https://img.shields.io/github/followers/brandonladen?label=follow&style=for-the-badge&color=black)](https://github.com/brandonladen)
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/brandonladen486)
-- 🔭 I’m still working on my course (INFORMATION TECHNOLOGY)
+- 🔭 I’m still working on my course IT (INFORMATION TECHNOLOGY)
 - 🌱 I’m currently learning Software Engineering at ALX
 - 🧠  I'm learning as many things as I can about software engineering.
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything, be sure I'll be generous
 - 😄 Pronouns:  He/Him
 - 📫 How to reach me: brandonladen486@gmail.com
-- ⚡ Fun fact: I taught myself how to code before going to university and I have learned more than six programming languages, including Javascript, Java, C, C++, Dart, Python, and SQL.
+- ⚡ Fun fact: I taught myself how to code before going to university and I have learned more than six programming languages, including Javascript, Java, C, C++, Dart, Python, and database language SQL.
 
 ## My KeyDrive
-   "Never quit , instead learn to rest "
+   "Never quit, instead learn to rest "
 
 ### Talk with me via WhatsApp, I am kinda awesome 
    [Click here to open WhatsApp](https://wa.me/254702499923)
