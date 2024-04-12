@@ -3,7 +3,7 @@
 
 [![Twitter: BrandonLyden_](https://img.shields.io/twitter/follow/BrandonLyden?style=for-the-badge&logo=twitter&color=0891b2&labelColor=1c1917)](https://www.twitter.com/BrandonLyden)
 [![Linkedin: Brandon](https://img.shields.io/badge/-Brandon-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/brandon-odhiambo-40b91a25a/)](https://www.linkedin.com/in/brandon-odhiambo-40b91a25a/)
-[![GitHub brandonladen ](https://img.shields.io/github/followers/brandonladen?label=follow&style=for-the-badge&color=black)](https://github.com/brandonladen)
+[![GitHub brandonladen](https://img.shields.io/github/followers/brandonladen?label=follow&style=for-the-badge&color=black&logo=github)](https://github.com/brandonladen)
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/brandonladen486)
 - 🔭 I’m still working on my course IT (INFORMATION TECHNOLOGY)
 - 🖥️  See my [Portfolio](https://brandonladen.github.io/)
