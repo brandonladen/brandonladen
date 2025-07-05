@@ -13,7 +13,7 @@
 - 💬 Ask me about anything, be sure I'll be generous
 - 😄 Pronouns:  He/Him
 - 📫 How to reach me: brandonladen486@gmail.com
-- ⚡ Fun fact: I taught myself how to code before going to university and I have learned more than six programming languages, including Javascript, Java, C, C++, Dart, Python, and database language SQL.
+- ⚡ Fun fact: I’m from Eldoret — land of champions — but my race is in tech, not track.
 
 ## My KeyDrive
    "Never quit, instead learn to rest "
