@@ -7,7 +7,7 @@
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/brandonladen486)
 - 🔭 I’m done with my 4-year course IT (INFORMATION TECHNOLOGY), now awaiting graduation.
 - 🖥️  See my [Portfolio](https://brandonodhiambo.onrender.com/)
-- 🌱 Recent graduate of Software Engineering at ALX
+- 🌱 Reacent graduate of Software Engineering at ALX
 - 🧠  I'm learning as many things as I can about software engineering.
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything, be sure I'll be generous
