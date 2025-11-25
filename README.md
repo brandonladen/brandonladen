@@ -5,7 +5,7 @@
 [![Linkedin: Brandon](https://img.shields.io/badge/-Brandon-blue?style=for-the-badge&logo=Linkedin&Color=black&link=https://www.linkedin.com/in/brandon-odhiambo-40b91a25a/)](https://www.linkedin.com/in/brandon-odhiambo-40b91a25a/)
 [![GitHub brandonladen](https://img.shields.io/github/followers/brandonladen?label=follow&style=for-the-badge&color=black&logo=github)](https://github.com/brandonladen)
 [![HackerRank : midinfotn401](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/brandonladen486)
-- 🔭 I’m done with my 4-year course IT (INFORMATION TECHNOLOGY), now awaiting graduation.
+- 🔭 I graduated with a Bachelor’s degree in Information Technology (IT)
 - 🖥️  See my [Portfolio](https://brandonodhiambo.onrender.com/)
 - 🌱 Reacent graduate of Software Engineering at ALX
 - 🧠  I'm learning as many things as I can about software engineering.
