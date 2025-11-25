@@ -19,7 +19,7 @@
    "Never quit, instead learn to rest "
 
 ### Talk with me via WhatsApp, I am kinda awesome
-   [Click here to open WhatsApp](https://wa.me/254702499923?text=Hi%20Brandon%20%2C%20are%20you%20sure%20you%20are%20awesome%20%3F%20%F0%9F%98%82%F0%9F%98%82)
+   [Click here to open WhatsApp](https://wa.me/254702499923?text=Hi%20Brandon%2C%20are%20you%20sure%20you%20are%20awesome%20%F0%9F%98%82%F0%9F%98%82)
 
 ## My Stack(used or still using)
 
