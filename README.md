@@ -8,10 +8,6 @@
 - 🔭 I graduated with a Bachelor’s degree in Information Technology (IT)
 - 🖥️  See my [Portfolio](https://brandonodhiambo.onrender.com/)
 - 🌱 A graduate of Software Engineering at ALX
-- 🧠  I'm learning as many things as I can about software engineering.
-- 👯 I’m looking to collaborate on any project.
-- 💬 Ask me about anything, be sure I'll be generous
-- 😄 Pronouns:  He/Him
 - 📫 How to reach me: brandonladen486@gmail.com
 - ⚡ Fun fact: I’m from Eldoret — land of champions — but my race is in tech, not track.
 
