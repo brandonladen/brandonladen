@@ -10,9 +10,6 @@
 - 🌱 A graduate of Software Engineering at ALX
 - ⚡ Fun fact: I’m from Eldoret — land of champions — but my race is in tech, not track.
 
-## My KeyDrive
-   "Never quit, instead learn to rest "
-
 ## My Stack(used or still using)
 
 Bellow currently or Previously used Stack
